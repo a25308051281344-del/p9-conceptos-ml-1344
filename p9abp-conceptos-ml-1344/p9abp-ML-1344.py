@@ -8,6 +8,7 @@ import pandas as pd
 print("RETO ABP: ANALISIS DE ENTREGAS")
 print("Adrian Hinojos NC 1344")
 print("Version de Pandas:", pd.__version__)
+print("Numero de lista: 29")
 
 # Dataset correspondiente al numero de lista 29
 datos29 = {
